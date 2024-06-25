@@ -1,1 +1,1 @@
-# EPITECH_Minishell2
+EPITECH PGE 2028 PROJECT - Minishell2
