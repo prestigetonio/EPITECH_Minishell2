@@ -8,10 +8,19 @@ Recréer un shell fonctionnel capable d’exécuter des commandes et de gérer d
 Comme le savent les personnes à Epitech, le projet est corrigé par la moulinette, voici les résultats : <br>
 Prérequis remplis : 
 <br><br>
-- Global : ?% <br>
-- Parsing des commandes : ?% <br>
-- Gestion du **PATH** : ?% <br>
-- Séparateur de commandes **";"** : ?% <br>
+- Basic tests : 80% <br>
+- Path handling : 80% <br>
+- Setenv and unsetenv : 50% <br>
+- Builtin cd : 100% <br>
+- Line formatting (space and tabs) : 100% <br>
+- Error handling : 0% <br>
+- Separator : 100% <br>
+- Simple pipe : 0% <br>
+- Simple redirections : 50% <br>
+- Advanced pipe : 14.3% <br>
+- Advanced redirections : 0% <br>
+- Advanced manipulations : 50% <br>
+- ✔️ TOTAL : 59.2% <br>
 <br>
 
 >[!IMPORTANT]
